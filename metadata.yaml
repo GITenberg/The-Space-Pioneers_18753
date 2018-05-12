@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '8081'
     url: http://www.gutenberg.org/2009/agents/8081
 description: A tale of the three young men who serve in the Solar Guard as Space Cadets.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18753#The-Space-Pioneers
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-07-04'
 gutenberg_type: Text

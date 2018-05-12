@@ -1,0 +1,42 @@
+_repo: The-Space-Pioneers_18753
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Ley, Willy
+    birthdate: 1906
+    deathdate: 1969
+    gutenberg_agent_id: '36959'
+    url: http://www.gutenberg.org/2009/agents/36959
+    wikipedia: http://en.wikipedia.org/wiki/Willy_Ley
+  illustrator:
+    agent_name: Glanzman, Louis
+    gutenberg_agent_id: '8082'
+    url: http://www.gutenberg.org/2009/agents/8082
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rockwell, Carey
+    gutenberg_agent_id: '8081'
+    url: http://www.gutenberg.org/2009/agents/8081
+description: A tale of the three young men who serve in the Solar Guard as Space Cadets.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18753'
+  lccn: '53003911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronauts -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Science fiction'
+- !lcsh 'Space colonies -- Juvenile fiction'
+- !lcsh 'Corbett, Tom (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Interstellar travel -- Juvenile fiction'
+title: The Space Pioneers
+url: http://www.gutenberg.org/ebooks/18753
